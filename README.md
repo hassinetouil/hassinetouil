@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hassine Touil 
-Second Year Computer Science Student at the National School of Engineers of Sfax :computer: :computer:
-Former IEEE ENIS SB Cyber Security Unit Vice Chair :lock:
-Former Graphic Designer at Microsoft Tech Club Enis :art: :art:
-IEEE ENIS SB Design committee chair art: :art:
-Pitch YourSelf For A Carrer 7 PYFAC7 Design Team Manger :art: :art:
+Second Year Computer Science Student at the National School of Engineers of Sfax :computer: :computer: <br>
+Former IEEE ENIS SB Cyber Security Unit Vice Chair :lock: <br>
+Former Graphic Designer at Microsoft Tech Club Enis :art: :art: <br>
+IEEE ENIS SB Design committee chair art: :art: <br>
+Pitch YourSelf For A Carrer 7 PYFAC7 Design Team Manger :art: :art: <br>
 
 ## What am I doing now ?? 
 Currently i am intersting in learning mobile and web devolpment and Devops Engineering. 
