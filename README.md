@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm Hassine Touil</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=cab9ce&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Hassine Touil;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;A+CTF+Player+👨‍💻">
+</p>
 <h3 align="center">Second Year Computer Science</h3>
 <br>
 
